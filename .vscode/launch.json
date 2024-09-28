@@ -1,0 +1,64 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "array_linklist",
+            "request": "launch",
+            "mainClass": "array_linklist",
+            "projectName": "padhai ke code_b455deee"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "padhai ke code_b455deee"
+        },
+        {
+            "type": "java",
+            "name": "bike",
+            "request": "launch",
+            "mainClass": "bike",
+            "projectName": "padhai ke code_b455deee"
+        },
+        {
+            "type": "java",
+            "name": "overriding",
+            "request": "launch",
+            "mainClass": "overriding",
+            "projectName": "padhai ke code_b455deee"
+        },
+        {
+            "type": "java",
+            "name": "hashmap",
+            "request": "launch",
+            "mainClass": "hashmap",
+            "projectName": "padhai ke code_b455deee"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "padhai ke code_b455deee"
+        },
+        {
+            "type": "java",
+            "name": "ReverseBubble",
+            "request": "launch",
+            "mainClass": "ReverseBubble",
+            "projectName": "padhai ke code_b455deee"
+        },
+        {
+            "type": "java",
+            "name": "reverse_bubble",
+            "request": "launch",
+            "mainClass": "reverse_bubble",
+            "projectName": "padhai ke code_b455deee"
+        }
+    ]
+}
